@@ -1,4 +1,5 @@
 # 🐶 Woof App - Jetpack Compose Project
+**Aulia Putri Salsabila - 5025221281**
 Penerapan Tema Material Dalam Aplikasi Woof Menggunakan Jetpack Compose
 
 ## 📱 Deskripsi
